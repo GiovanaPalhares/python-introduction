@@ -1,5 +1,5 @@
 # python-introduction
-This is a collection of exercise I did during a Course course about an introduction to computer science with python
+This is a collection of exercise I did during a course about an introduction to computer science with python
 
 Neste curso oferecido pelo Coursera, durante 9 semanas aprendi o básico da linguagem Python, praticando exercícios simples que estão neste repositório.
 
